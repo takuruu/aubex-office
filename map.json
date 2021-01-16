@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.aubex.de"
+                 "value":"https:\/\/www.aubex.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
