@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/garden.json"
+                 "value":"..\/maps\/garden.json"
                 }],
          "type":"tilelayer",
          "visible":true,
