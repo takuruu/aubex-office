@@ -67,7 +67,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"\/music\/MW.mp3"
+                 "value":".\/music\/MW.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
