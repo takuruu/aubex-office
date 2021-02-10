@@ -99,6 +99,12 @@
          "id":24,
          "name":"jitsi_kitchen",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"kitchen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":22,
