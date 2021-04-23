@@ -65,7 +65,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"music\/MW.mp3"
                 }],
