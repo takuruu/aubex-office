@@ -229,9 +229,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=baTHAcKAWoQ&t=10s"
+                 "value":"https:\/\/www.youtube.com\/embed\/baTHAcKAWoQ"
                 }],
          "type":"tilelayer",
          "visible":true,
