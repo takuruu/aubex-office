@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.youtube.com\/embed\/mn-KTgQnYg0"
+                 "value":"https:\/\/www.youtube.com\/embed\/mn-KTgQnYg0"
                 }, 
                 {
                  "name":"openWebsiteTriggerMessage: Willkommen in deinem Achtsamkeitsraum. Heute habe ich eine kurze Meditation f\u00fcr dich heraus gesucht. Dr\u00fccke die Leertaste um fortzufahren. Namaste.",
