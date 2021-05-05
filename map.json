@@ -280,7 +280,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Image",
+                 "name":"openImage",
                  "type":"string",
                  "value":"docs\/Mai2021-GER-v01"
                 }],
