@@ -224,9 +224,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openImage",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"docs\/Mai2021-GER-v01"
+                         "value":"https:\/\/www.aubex.de\/de\/node\/693"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -403,7 +403,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1552,6 +1552,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":22
 }
