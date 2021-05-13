@@ -295,7 +295,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Willkommen in deinem Achtsamkeitsraum. F\u00fchlst du dich nach einem Tag am Schreibtisch auch ganz verknoddelt? Hier ist ein 15 Minuten Strach f\u00fcr dich :) Dr\u00fccke die Leertaste um fortzufahren. Namaste."
+                         "value":"Willkommen in deinem Achtsamkeitsraum. F\u00fchlst du dich nach einem Tag am Schreibtisch auch ganz verknoddelt? Hier ist ein 15 Minuten Stretch f\u00fcr dich :) Dr\u00fccke die Leertaste um fortzufahren. Namaste."
                         }],
                  "type":"tilelayer",
                  "visible":true,
