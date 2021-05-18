@@ -331,7 +331,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/ssl4.hrworks.de\/f\/dashboard"
+                         "value":"https:\/\/www.hrworks.de"
                         }],
                  "type":"tilelayer",
                  "visible":true,
