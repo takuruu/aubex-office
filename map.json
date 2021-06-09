@@ -285,7 +285,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/qFgwrTc1e1I"
+                         "value":"https:\/\/www.youtube.com\/embed\/7Av1kR5TnIA"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -295,7 +295,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Willkommen in deinem Achtsamkeitsraum. F\u00fchlst du dich nach einem Tag am Schreibtisch auch ganz verknoddelt? Hier ist ein 15 Minuten Stretch f\u00fcr dich :) Dr\u00fccke die Leertaste um fortzufahren. Namaste."
+                         "value":"Lust auf eine kleine Yoga Pause? Frag doch jemand aus dem a-Team, ob er mitmachen m\u00f6chte. :) Dr\u00fccke die Leertaste um fortzufahren. Namaste."
                         }],
                  "type":"tilelayer",
                  "visible":true,
