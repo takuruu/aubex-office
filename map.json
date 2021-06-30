@@ -365,17 +365,17 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"OpenWebsite",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.youtube.com\/watch?v=AUYglL9WkvI"
                         }, 
                         {
-                         "name":"OpenWebsiteTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }, 
                         {
-                         "name":"OpenWebsiteTriggerMessage",
+                         "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Hi! Willkommen bei IT Solutions! Hier wird nicht nur \"gel\u00f6st\", hier wird auch \"getraint\". Zum Einstieg mal, wie man Flipcharts gestaltet. Braucht man immer wieder mal in kleiner oder gro\u00dfer Form. ;) Viel Spa\u00df!"
                         }],
