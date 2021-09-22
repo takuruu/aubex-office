@@ -285,7 +285,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"www.youtube.com\/embed\/n6-BtQr0ZRo"
+                         "value":"https:\/\/www.youtube.com\/embed\/n6-BtQr0ZRo"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
